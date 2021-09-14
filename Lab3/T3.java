@@ -42,7 +42,7 @@ public class T3 {
         
         String url = "jdbc:mysql://localhost:3306/?user=root";
         String user = "root";
-        String password = "Nope0970948728**";
+        String password = "UrPassWord";
         Connection myConn = null;
         Statement myStmt = null;
     
